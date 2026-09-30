@@ -1,0 +1,55 @@
+TD1 - Artificial Intelligence
+Exercise 1
+
+Q1 -
+
+a) The Pokemon trainer
+b) The Area
+c) The Trainer at the start state and the clinic at the Goal state
+d) The Trainer at the Goal Clinic location
+e) {Move up, Move down, Move left, Move, right}
+
+Q2 -
+
+a) The Move is validated and executed
+b) The Move is rejected and the player doesn't move
+c) same as the b
+
+Q3 -
+
+a) 1 / 0
+b) The sum of the costs of each move occured to compute the path
+
+Q4 - Yes because only his position can change, the rest of the items are defined and theirs positions ared fixed at the beginning of the game
+
+Q5 ) Yes // No
+
+Exercise 2
+
+Q1 - 
+
+a) (5,2) // (2,2)
+b) (2,9) // to do
+
+Q2 -
+player.moveDown -> (3,2)
+player.right -> (2,3)
+
+Q3 - 
+
+a) 2
+b) 3
+
+Q4 -
+
+a) (4,5) // I guess
+...
+
+Q5 -
+Q6 - 
+
+a) n
+b) yes
+
+
+Exercise 3
